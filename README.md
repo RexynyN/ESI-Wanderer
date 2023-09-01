@@ -6,5 +6,5 @@
 * Coveralls badgev [![Coverage Status](https://coveralls.io/repos/github/luigi0t/ESI-Wanderer/badge.svg)](https://coveralls.io/github/luigi0t/ESI-Wanderer)
 * Link para a app implantada no Heroku:
 * Link para o projeto no Pivotal Tracker:
-* Integrantes do projeto: Breno, Luigi, Juliana, Gabriela,
+* Integrantes do projeto: Breno, Luigi, Juliana, Gabriela, Aline
 * Pequena descrição descrição do problema que o software resolverá:
