@@ -70,3 +70,11 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+group :development, :test do
+  gem 'rspec-rails'    # Gem para testes com RSpec
+end
+
+group :test do
+  gem 'cucumber-rails' # Gem para testes de comportamento com Cucumber
+end
