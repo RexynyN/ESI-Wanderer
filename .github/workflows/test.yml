@@ -28,12 +28,7 @@ jobs:
       run: |
         rake spec
         rake cucumber
-
-  build:
-    name: Build
-    runs-on: ubuntu-latest
-    steps:
-
+        
     - uses: actions/checkout@v1
 
     - name: Use Node.js 16.x
