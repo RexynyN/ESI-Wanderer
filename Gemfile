@@ -6,6 +6,9 @@ ruby "3.2.2"
 # Coveralls
 gem 'simplecov-lcov', '~> 0.8.0'
 
+# SimpleCov
+gem 'simplecov', '~> 0.18'
+
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.7", ">= 7.0.7.2"
 
