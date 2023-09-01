@@ -6,3 +6,4 @@
 * Link para o projeto no Pivotal Tracker:
 * Integrantes do projeto: Breno, Luigi, Juliana, Gabriela, Aline
 * Pequena descrição descrição do problema que o software resolverá:
+- Essa aplicaçao é focada em ajudar novos viajantes a tornar a sua experiência viajando para qualquer canto do mundo de forma acessível com várias dicas e opções de perfis, principalmente os mochileiros, como por exemplo, acessando a nossa plataforma, você consegue visualizar as viagens realizadas por outros viajantes… desde os dias, estações do ano que ela foi realizada, até suas hospedagens, restaurantes, e seus respectivos preços, assim como, compartilhar a sua viagem com os outros.
