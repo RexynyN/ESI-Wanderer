@@ -1,1 +1,1 @@
-web: bundle exec ruby development.rb
+web: bundle exec ruby app/controllers/application_controller.rb
