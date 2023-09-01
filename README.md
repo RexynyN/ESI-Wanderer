@@ -1,5 +1,3 @@
-# README
-
 * CodeClimate badge [![Maintainability](https://api.codeclimate.com/v1/badges/95a1b561fd300df4b44c/maintainability)](https://codeclimate.com/github/luigi0t/ESI-Wanderer/maintainability)
 * CodeClimate badge [![Test Coverage](https://api.codeclimate.com/v1/badges/95a1b561fd300df4b44c/test_coverage)](https://codeclimate.com/github/luigi0t/ESI-Wanderer/test_coverage)
 * Github Actions badge [![Test Workflow](https://github.com/luigi0t/ESI-Wanderer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/luigi0t/ESI-Wanderer/actions/workflows/test.yml)
