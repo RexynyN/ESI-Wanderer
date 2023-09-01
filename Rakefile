@@ -4,3 +4,13 @@
 require_relative "config/application"
 
 Rails.application.load_tasks
+
+task :spec do
+  puts "Running RSpec tests..."
+  sh "bundle exec rspec"
+end
+
+task :cucumber do
+  puts "Running Cucumber tests..."
+  sh "bundle exec cucumber"
+end
