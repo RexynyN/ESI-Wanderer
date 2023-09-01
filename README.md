@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+[![Test Workflow](https://github.com/luigi0t/ESI-Wanderer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/luigi0t/ESI-Wanderer/actions/workflows/test.yml)
