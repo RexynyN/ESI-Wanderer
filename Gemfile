@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby "3.0.2"
+ruby "3.2.2"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.7"
@@ -72,7 +72,6 @@ group :test do
   gem "webdrivers"
   gem 'simplecov', '~> 0.18', require: false
   gem 'simplecov-lcov', '~> 0.8.0'
-  gem "cucumber-rails"
   gem "rspec-rails"
   gem "database_cleaner"
 end
