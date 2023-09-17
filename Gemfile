@@ -1,10 +1,10 @@
 source "https://rubygems.org"
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby "3.2.2"
+ruby "3.0.2"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
-gem "rails", "~> 7.0.7", ">= 7.0.7.2"
+gem "rails", "~> 7.0.7"
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
@@ -66,18 +66,18 @@ end
 
 group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
+  gem 'cucumber-rails',  require: false 
   gem "capybara"
   gem "selenium-webdriver"
   gem "webdrivers"
+  gem 'simplecov', '~> 0.18', require: false
   gem 'simplecov-lcov', '~> 0.8.0'
-  gem 'simplecov', '~> 0.18'
+  gem "cucumber-rails"
+  gem "rspec-rails"
+  gem "database_cleaner"
 end
   # Coveralls
 
-group :development, :test do
-  gem 'rspec-rails'    # Gem para testes com RSpec
-end
-
-group :test do
-  gem 'cucumber-rails' # Gem para testes de comportamento com Cucumber
-end
+# group :development, :test do
+#   gem 'rspec-rails'    # Gem para testes com RSpec
+# end
