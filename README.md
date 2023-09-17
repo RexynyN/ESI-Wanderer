@@ -19,3 +19,5 @@ Pensada especialmente para mochileiros, ao acessar nossa plataforma os usuários
   - Gabriela Colombo Alves Longo
   - Juliana Almeida Santos
   - Luigi Tramontin de Paula
+ 
+  - teste climate
